@@ -1,7 +1,7 @@
 # video_converter
 This tool is a Windows batch video conversion application created through dialogue with AI.
 
-English
+## English
 
 This is a simple batch video conversion tool for Windows created through dialogue with AI (Gemini).
 It was developed with a focus on features I personally find easy to use and stable operation.
@@ -46,7 +46,7 @@ This tool is freeware created for personal learning and convenience.
 
 Translated with DeepL.com (free version)
 
-日本語
+## 日本語
 
 AI（Gemini）との対話を通じて作成した、Windows向けのシンプルな一括動画変換ツールです。
 自分自身が使いやすいと感じる機能と、安定した動作を目指して開発しました。
