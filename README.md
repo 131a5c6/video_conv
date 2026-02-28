@@ -1,4 +1,4 @@
-# video_conv
+# video_converter
 This tool is a Windows batch video conversion application created through dialogue with AI.
 
 English
