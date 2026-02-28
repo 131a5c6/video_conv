@@ -3,9 +3,48 @@ This tool is a Windows batch video conversion application created through dialog
 
 English
 
-This tool is a batch video conversion application for Windows created through interaction with Google's AI, Gemini.
-It includes FFmpeg and can convert major video file formats such as mp4, mkv, mov, avi, and webm.
-During development, we implemented thorough defect fixes and enhanced robustness, including AI-driven automatic support for GPU encoding (NVENC/QSV), crash prevention with Japanese paths, and elimination of orphaned processes. Simply select a preset prioritizing quality preservation or file size, and anyone can achieve optimal results. This highly practical tool combines the precision of AI logic with the versatility of FFmpeg.
+This is a simple batch video conversion tool for Windows created through dialogue with AI (Gemini).
+It was developed with a focus on features I personally find easy to use and stable operation.
+
+## 💡 Features
+
+* **No Setup Required**: The video conversion engine “FFmpeg” is bundled within the application, so you can download it and start using it immediately.
+* **Co-developed with AI**: We fully incorporated advice from AI (Gemini) in designing the source code, fixing errors, and improving stability on Windows (including GPU utilization).
+* **Batch processing support**: Add multiple videos to a list and convert them all at once.
+
+## 📂 Supported File Formats
+
+Supports loading and converting the following formats:
+
+* **Input formats**: `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv`, `.flv`, `.webm`, `.m4v`, etc.
+* **Output formats**: `.mp4`, `.mkv`, `.mov`, `.avi`, `.webm`
+
+## 🛠 How to Use
+
+1. Download the latest `exe` file from the Releases page.
+2. Launch the app and select your file using the “Select Video File” button.
+3. Choose the output format and conversion mode (priority for quality or speed) suited to your needs.
+4. Press “Start Batch Conversion” to begin processing.
+
+## 🤖 About the AI Development Process
+
+This tool was developed by an individual developer who communicated feature requests to AI (Gemini 3 Flash), iterating through AI-generated code proposals and debugging.
+
+* Efficient FFmpeg invocation
+* Error avoidance with Japanese filenames
+* Accurate progress bar display
+AI insights were leveraged for many such detailed processing steps.
+
+## ⚖ Disclaimer
+
+This tool is freeware created for personal learning and convenience.
+
+1. **Use at Your Own Risk**: The creator assumes no responsibility for data loss, PC malfunctions, or other issues arising from using this tool. Always back up important data before use.
+2. **No Guarantee of Functionality**: We do not guarantee complete functionality across all environments or video files.
+3. **External Libraries**: This tool utilizes FFmpeg (LGPL v2.1/v3.0 license, etc.).
+4. **Recommended for Non-Commercial Use**: This software was created as an experimental project. Use it at your own risk for important tasks only after thorough testing.
+
+Translated with DeepL.com (free version)
 
 日本語
 
