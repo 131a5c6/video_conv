@@ -44,7 +44,7 @@ This tool is freeware created for personal learning and convenience.
 3. **External Libraries**: This tool utilizes FFmpeg (LGPL v2.1/v3.0 license, etc.).
 4. **Recommended for Non-Commercial Use**: This software was created as an experimental project. Use it at your own risk for important tasks only after thorough testing.
 
-Translated with DeepL.com (free version)
+Translated with DeepL.com
 
 ## 日本語
 
